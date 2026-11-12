@@ -51,7 +51,7 @@ git clone https://github.com/dosankim/ax-prd ~/.claude/skills/ax-prd
 
 다 쓴 모습은 두 편이 있습니다. 가상의 조직과 숫자입니다.
 
-- [개발할 부분이 있는 경우](examples/prd-catering-order.md)
+- [개발할 부분이 있는 경우](examples/prd-grant-settlement.md)
 - [설정만으로 끝나는 경우](examples/prd-grant-search.md)
 
 ## 해결 방법 일곱 가지
@@ -83,8 +83,8 @@ ax-prd/
 ├── assets/
 │   └── prd-template.md           PRD의 빈 틀
 └── examples/
-    ├── diagnosis-catering-order.md   입력 예시 (가상)
-    ├── prd-catering-order.md       결과 예시: 개발할 부분이 있는 경우 (가상)
+    ├── diagnosis-grant-settlement.md   입력 예시 (가상)
+    ├── prd-grant-settlement.md       결과 예시: 개발할 부분이 있는 경우 (가상)
     └── prd-grant-search.md       결과 예시: 설정만으로 끝나는 경우 (가상)
 ```
 

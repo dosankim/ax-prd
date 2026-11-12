@@ -122,7 +122,7 @@ description: 업무진단에서 고른 AX 과제를 문답으로 정리해 PRD(�
 
 ### 8단계. 쓰고, 점검하고, 넘긴다
 
-1. `assets/prd-template.md`의 구조로 PRD를 쓴다. 완성된 모습은 `examples/prd-catering-order.md`를 참고한다.
+1. `assets/prd-template.md`의 구조로 PRD를 쓴다. 완성된 모습은 `examples/prd-grant-settlement.md`를 참고한다.
 2. 파일로 저장한다. 연결된 폴더가 있으면 그 폴더에 `PRD_<과제명>.md`로 저장하고, 없으면 내려받을 수 있는 마크다운 파일로 낸다. 사용자가 경로를 말했으면 그 경로를 쓴다.
 3. `references/quality-check.md`로 스스로 점검한다. 처음 보는 개발자의 눈으로 다시 읽으며 "이 문서만 보고 만들 수 있는가"를 묻는다. 고칠 수 있는 것은 고치고 파일을 다시 저장한다.
 4. 사용자에게 짧게 보고한다.
@@ -158,6 +158,6 @@ description: 업무진단에서 고른 AX 과제를 문답으로 정리해 PRD(�
 | `references/methods.md` | 해결 방법 일곱 가지와 고르는 기준 | 4단계, 5단계 |
 | `references/quality-check.md` | 점검 열 가지와 보고 형식 | 8단계, 검토 요청 |
 | `assets/prd-template.md` | PRD의 빈 틀 | 8단계 |
-| `examples/prd-catering-order.md` | 다 쓴 PRD 한 편(가상 조직). 개발할 부분이 있는 경우 | 완성된 모습이 궁금할 때 |
+| `examples/prd-grant-settlement.md` | 다 쓴 PRD 한 편(가상 조직). 개발할 부분이 있는 경우 | 완성된 모습이 궁금할 때 |
 | `examples/prd-grant-search.md` | 다 쓴 PRD 한 편(가상 조직). 설정만으로 끝나는 경우 | 개발할 부분이 없을 때 |
-| `examples/diagnosis-catering-order.md` | 위 PRD의 입력이 된 진단 요약(가상) | 입력이 어떤 모습인지 볼 때 |
+| `examples/diagnosis-grant-settlement.md` | 위 PRD의 입력이 된 진단 요약(가상) | 입력이 어떤 모습인지 볼 때 |
